@@ -1,0 +1,24 @@
+Column Name	Data Type	Description	Category	Issues
+Row ID	Decimal	Unique row identifier	Order	Redundent and useless
+Order ID	Text	Unique order identifier	Order	None
+Order Date	Date	Date the order was placed	Date	Inconsistant formating 
+Ship Date	Date	Date the order was shipped	Date	Inconsistant formating 
+Ship Mode	Text	Identify the shipping class	Discribtive	None
+Customer ID	Decimal	Unique customer identifier	Order	None
+Customer Name	Text	Identify customers names	Discribtive	None
+Segment	Text	Identify customers sagments	Discribtive	None
+City	Text	Identify customers cities	Discribtive	None
+State	Text	Identify customers states	Discribtive	None
+Country	Text	Identify customers countries 	Discribtive	None
+Postal code	Decimal	Identify customer Postal code	Discribtive	Too many nulls
+Reign	Text	Identify customer reign	Discribtive	None
+Product ID	Decimal	Unique product identifier	Order	None
+Category 	Text			None
+Sub-Category	Text			None
+Product Name	Text			None
+Sales	Decimal	Sales amount	Financial	None
+Quantity	Decimal			None
+Discount	Decimal			None
+Profit	Decimal			A lot of negative values
+Shipping Cost	Decimal			None
+Order Priority	Text		Ordinal	None
