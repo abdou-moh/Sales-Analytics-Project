@@ -304,15 +304,15 @@ Global-Superstore-Sales-Analytics/
 
 ### Executive Overview
 
-![Executive Overview](powerbi/screenshots/executive_overview.png)
+![Executive Overview](PowerBI/screenshots/executive_overview.png)
 
 ### Sales & Product Performance
 
-![Sales and Product Performance](powerbi/screenshots/product_performance.png)
+![Sales and Product Performance](PowerBI/screenshots/product_performance.png)
 
 ### Customer & Geographic Analysis
 
-![Customer and Geographic Analysis](powerbi/screenshots/customer_geography.png)
+![Customer and Geographic Analysis](PowerBI/screenshots/customer_geography.png)
 
 ---
 
